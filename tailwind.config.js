@@ -4,9 +4,10 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        grayishblue: 'hsl(220, 15%, 55%)',
-        darkblue: 'hsl(218, 44%, 22%)',
-        lightgray: 'hsl(212, 45%, 89%)',
+        grayishBlue: 'hsl(220, 15%, 55%)',
+        darkBlue: 'hsl(218, 44%, 22%)',
+        lightGray: 'hsl(212, 45%, 89%)',
+        darkRoyalBlue: 'hsl(228, 45%, 44%)',
       },
       fontFamily: {
         outfit: 'Outfit, sans',
